@@ -1,12 +1,6 @@
 # 快捷键参考
 
-## Can I become who I want to be?
+PhpStorm以pdf格式为Windows / Linux和macOS 提供默认快捷键参考。
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
+如果要查看内置的 **快捷键参考手册**，在主菜单选择 **Help \| Keymap Reference**。
 
